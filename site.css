@@ -1,0 +1,99 @@
+   *{ margin: 0px;
+    box-sizing: border-box;
+   
+    }
+    .titulo {
+        display: flex;
+        flex-direction: row;
+        width: 400;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        font-family: Verdana;
+    }
+    .home {
+        display: flex;
+        justify-content: center;
+    }
+    .titulo2 {
+        display: flex;
+        flex-direction: row;
+        width: 400;
+        align-items: center;
+        justify-content: center;
+        font-size: 15px;
+        font-family: Verdana;
+    }
+    .casa {
+       display: flex;
+       justify-content: center;
+    }
+    body {
+        background-image: url("pintando.jpg");
+        background-size: cover;
+    }
+    .titulo3 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        width: 400;
+        font-size: 35px;
+        font-family: Verdana;
+    }
+    .personalizada {
+        display: flex;
+        justify-content: center;
+    }
+    .titulo4 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        width: 400;
+        font-size: 15px;
+        font-family: Verdana;
+    }
+    .quadricular {
+        
+        display: flex;
+        justify-content: center;
+        height: 753px;
+    }
+    .titulo5 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        width: 400;
+        font-size: 15px;
+        font-family: Verdana;
+        
+    }
+    .quarto {
+        display: flex;
+        justify-content: center;
+        height: 635px;
+    }
+    .botao { 
+
+    background-color: #ffffff;
+    cursor: hand;
+    font-size: 23;
+    padding: 5px 5px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+        margin-right: 20px;
+}
+.config{     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: Verdana;
+}
+
+
+
+
+
